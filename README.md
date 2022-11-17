@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://github.com/ayoub-CHAABA/images/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ayoub CHAABA</h1>
 <h3 align="center">I'm passionate about Financial Mathematics & Coding</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wits.ac.za/media/wits-university/course-finder-images/mathematics-finance.png">
