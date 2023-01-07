@@ -9,7 +9,7 @@
 - 😀 Ever since I was a kid, Computer science & Mathematics has been my passions. 
 
 - 💙 This passion still carries me through my education.
--
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/chaaba-ayoub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaaba-ayoub/" height="30" width="40" /></a>
